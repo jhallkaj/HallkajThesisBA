@@ -1,4 +1,4 @@
-# Clustering in the Mouse OB
+# Clustering in the Mouse Olfactory Bulb
 Thesis project for my senior year of Bachelors studies and work under the Castro Lab
 Publish Code contains the thesis reproduction code.
 
